@@ -3,12 +3,12 @@
 int main(){
 
     int a, b;
-    printf("Enter the First Number: ");
+    printf("Value of a: ");
 
-    scanf("%d\n", &a);
+    scanf("%d", &a);
 
-    printf("Enter the Second number: ");
-    scanf("%d\n",&b);
+    printf("Value of b: ");
+    scanf("%d",&b);
 
     
     int temp = a;
